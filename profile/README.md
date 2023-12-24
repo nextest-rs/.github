@@ -23,4 +23,4 @@ case.
   
 ## People
 
-The primary maintainer of nextest is [Rain @sunshowers](https://github.com/sponsors/sunshowers). If nextest has been useful to you or your organization, please consider [a sponsorship](https://github.com/sponsors/sunshowers).
+The primary maintainer of nextest is [Rain (@sunshowers)](https://github.com/sponsors/sunshowers). If nextest has been useful to you or your organization, please consider [a sponsorship](https://github.com/sponsors/sunshowers).
